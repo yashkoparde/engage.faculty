@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Engage teacher",
+  "description": "A high-fidelity Lecture Hall for managing interactive, responsive presentations in real time. Features live concept racing, instant polling tools, active recall flashcard decks, manual Q\u0026A managers, and automated lecture countdown engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
